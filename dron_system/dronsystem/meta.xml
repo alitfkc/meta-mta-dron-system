@@ -1,0 +1,10 @@
+<meta>
+    <info author="Deniz" version="1.0" type="misc" name="Dron Panel"/>
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+    <script src="ayarlar.lua" type="client" />
+    <script src="lib.lua" type="client" />
+    <script src="uyari.lua" type="client" />
+    <file src="img/icons.ttf" type="client" />
+    <file src="img/roboto.ttf" type="client" />
+</meta>
